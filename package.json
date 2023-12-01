@@ -1,0 +1,17 @@
+{
+  "name": "linkit",
+  "version": "1.0.0",
+  "description": "Simple link shortner",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Griffin Ferguson",
+  "license": "ISC",
+  "dependencies": {
+    "base62": "^2.0.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  }
+}
